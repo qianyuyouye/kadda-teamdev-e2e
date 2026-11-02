@@ -1,0 +1,1 @@
+INVOICE_TITLE = "发票"
