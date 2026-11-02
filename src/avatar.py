@@ -1,0 +1,1 @@
+AVATAR_HINT = "仅支持 PNG"
