@@ -3,3 +3,4 @@ def healthcheck() -> str:
 
 
 PROFILE_TITLE = "个人资料"
+PROFILE_SAVE_LABEL = "保存"
