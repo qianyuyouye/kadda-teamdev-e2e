@@ -1,0 +1,1 @@
+POINTS_TITLE = "积分"
